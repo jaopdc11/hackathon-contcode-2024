@@ -1,0 +1,117 @@
+@media screen and (max-width: 1057px) {
+    .sumir {
+         /*Hide elements*/
+        display: none;
+    }
+    .text-mobile {
+         /*Alight the mobile texts to center*/
+        text-align: center;
+    }
+    nav {
+         /*Resize navbar to 100% of screeen (because the buttons are with 80% to be more in center for pc users)*/
+        height: 90px;
+        width:  100%;
+        padding: 1rem;
+        
+    }
+    .banner {
+        /*Resize the main banner*/
+        margin-top: 7rem;
+        border-radius: 1rem;
+        img {
+            
+            object-fit: contain;
+            width: 100%;
+            height: 200px;
+            padding: 10px;
+            border-radius: 1rem;
+            transition: 0.5s;
+        }
+        img:hover {
+            transform: scale(1.1) rotate(20deg);
+        }
+    }
+    #int {
+              /*introduction section*/
+        margin: 0;
+        padding: 0;
+        h1 {
+            font-weight: bolder;
+            color: white;
+            font-size: 2rem;
+        }
+        h3, p {
+            font-size: 1rem;
+            color: #c1c8d1;
+        }
+
+        div {
+            width: 100%;
+        }
+    }
+    .btn-contain1 {
+         /*contain index.html int buttons*/
+        margin-bottom: 6rem;
+        margin-top: 2rem;
+        align-items: center;
+        display: flex;
+        justify-content: center;
+    }
+    footer {
+       div {
+        display: flex;
+        text-align: center;
+        flex-direction: column;
+       }
+       a {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+       }
+    }
+    #about {
+             /*cabout text realighn*/
+        text-align: center;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+    }
+    .menu {
+                 /*Dashboard menu size*/
+        width: 100%;
+    }
+
+    .t-items {
+        width: 100%;
+        .cargas {
+            margin: 0;
+            width: 100%;
+    
+        }
+        .vagas, .utilizacao  {
+            width: 400px;
+            margin: 0;
+        }
+        #adicionar {
+            width: 400px;
+        
+        }
+    
+    }
+    .categorias {
+        overflow: hidden;
+        margin: 0;
+        width: 100%;
+
+
+        .grapic-container {
+            border-radius: 1rem;
+            width: 80%;
+        }
+    }
+    #forms2 {
+        margin-bottom: 5rem;
+    }
+
+}

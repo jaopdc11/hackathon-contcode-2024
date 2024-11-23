@@ -1,0 +1,82 @@
+.categorias {
+    margin: 1rem;
+    width: 500px;
+    height: 600px;
+    border-radius: 1rem;
+
+    transition: 0.5s;
+    border: 1px solid var( --stroke-darkmode);
+
+    .grapic-container {
+        border-radius: 1rem;
+        width: 100%;
+    }
+    .btn {
+        padding: 1rem;
+    }
+
+}
+#dashboard {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.menu {
+    border-radius: 1rem;
+    margin-top: 10rem;
+    width:  70%;
+    border: 1px solid var( --stroke-darkmode);
+    h1 {
+        padding: .5rem;
+        font-weight: bolder;
+        color: white;
+        font-size: 1.5rem;
+    }
+    h2 {
+        font-weight: bolder;
+        color: #95a2b3;
+        font-size: 1.5rem;
+    }
+    h3, p {
+        font-size: 1.2rem;
+        color: #c1c8d1;
+    }
+}
+.carregamentos {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.recebidos {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    width: 80%;
+    height: 300px;
+    
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 1rem;
+    background-color: var(--other--darkmode);
+    border: 1px solid var( --stroke-darkmode);  
+}
+.vagas {
+    width: 100%;
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 1rem;
+    background-color: var(--other--darkmode);
+    border: 1px solid var( --stroke-darkmode);   
+}
+.grafico-contain {
+    width: 100%;
+    height: 600px;
+    background-color: var(--other--darkmode);
+    border: 1px solid var( --stroke-darkmode);   
+}
+#grafico {
+    background-color: var(--other--darkmode);
+    border: 1px solid var( --stroke-darkmode);   
+}
