@@ -6,6 +6,7 @@ namespace Hackacont2024.Data {
     {
         // Represents the collection of 'User' entities in the database.
         public DbSet<User> Usuarios { get; set; }
+        public DbSet<Cargo> Cargas { get; set; }
 
         // Constructor to pass the DbContextOptions to the base DbContext class.
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options) { }
