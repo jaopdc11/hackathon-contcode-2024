@@ -1,0 +1,33 @@
+#navbar {
+    position: fixed;
+    z-index: 1000;
+
+    width: 100%;
+}
+nav {
+    height: 90px;
+    width:  40%;
+    padding: 1rem;
+    
+}
+.nav-btn {
+    transition: 0.3s;
+    color: var(--text-darkmode);
+
+}
+.nav-icon {
+    width: 25px;
+    height: 25px;
+    object-fit: cover;
+}
+.nav-btn-style {
+    margin-left: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-bottom: 1px solid rgba(255, 255, 255, 0);
+    transition: 0.5s;
+}
+.nav-btn-style:hover {
+    border-bottom: 1px solid white;
+}

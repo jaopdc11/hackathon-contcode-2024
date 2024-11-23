@@ -1,0 +1,5 @@
+@keyframes rolling {
+    to {
+        transform: translateX(-130px);
+    }
+}
