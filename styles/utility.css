@@ -1,0 +1,161 @@
+.btn {
+  text-align: center;
+  display: flex;
+  transition: 0.3s;
+  color: var(--text-darkmode);
+}
+.glass {
+  background: #1010136c;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(11.1px);
+  -webkit-backdrop-filter: blur(11.1px);
+  border: 1px solid var(--stroke-darkmode);
+}
+.btn-style1 {
+  border: 1px solid rgba(44, 42, 51, 0.301);
+  border-radius: 1rem;
+  margin: 3px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  margin: 1rem;
+}
+.btn-style1:hover {
+  border: 1px solid rgba(172, 172, 172, 0.63);
+}
+.btn-style4 {
+  border: 1px solid rgba(253, 252, 253, 0.301);
+  border-radius: 1rem;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  margin: .5rem;
+}
+.btn-style4:hover {
+  border: 1px solid white;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+.btn-style3 {
+  border: 1px solid rgba(253, 252, 253, 0.247);
+  border-radius: 1rem;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  margin: .5rem;
+}
+.btn-style3:hover {
+  border: 1px solid white;
+  background-color: white;
+  color: black;
+}
+.btn-style2 {
+  color: black;
+  border: 1px solid rgb(253, 252, 253);
+  background-color: white;
+  border-radius: 1rem;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  margin: .5rem;
+}
+.btn-style2:hover {
+  padding-left: 2rem;
+  padding-right: 2rem;
+
+}
+.btn-dash {
+  padding: 1rem;
+}
+.btn-style5 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  margin: .5rem;
+  border-radius: 1rem;
+  
+  padding: 10px 4%;
+  background-color: rgb(29, 30, 37);
+  border: 1px solid rgba(255, 255, 255, 0);
+  transition: 0.2s;
+}
+.btn-style5:hover  {
+  border: 1px solid rgba(255, 255, 255, 0.301);
+  background-color: rgb(24, 24, 29);
+}
+.btn-style6 {
+  margin: .5rem;
+  border-radius: 2rem;
+  background-color: rgba(51, 53, 65, 0);
+  border: 1px solid rgba(255, 255, 255, 0);
+  transition: 0.2s;
+}
+.btn-style6:hover  {
+  border: 1px solid rgba(255, 255, 255, 0.301);
+  background-color: rgb(24, 24, 29);
+}
+.rolling {
+  gap: 5rem;
+  animation: rolling 5s linear infinite;
+
+  font-size: bolder;
+
+  img {
+      object-fit: cover;
+      width: 40px;
+  }
+}
+.logistica {
+  margin-top: -2rem;
+  transform: rotate(5deg);
+
+  padding: 20px;
+  overflow: hidden;
+  background-color: var(--faixa-darkmode);
+
+  p {
+      margin: 1rem;
+      font-size: 1rem;
+  }
+}
+.logistica2 {
+  margin-top: -110px;
+  transform: rotate(-5deg);
+
+  padding: 20px;
+  overflow: hidden;
+  background-color: var(--faixa-darkmode);
+
+  p {
+      margin: 1rem;
+      font-size: 1rem;
+  }
+}
+.logistica4 {
+  margin-top: 5rem;
+  transform: rotate(5deg);
+
+  padding: 20px;
+  overflow: hidden;
+  background-color: var(--faixa-darkmode);
+
+  p {
+      margin: 1rem;
+      font-size: 1rem;
+  }
+}
+.logistica3 {
+
+  padding: 20px;
+  overflow: hidden;
+  background-color: var(--faixa-darkmode);
+
+  p {
+      margin: 1rem;
+      font-size: 1rem;
+  }
+}

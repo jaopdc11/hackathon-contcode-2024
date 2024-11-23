@@ -1,0 +1,38 @@
+#navbar {
+    /*this part of navbar code uise z-index to make navbar fixed in the top of page*/
+    position: fixed;
+    z-index: 1000;
+
+    width: 100%;
+}
+nav {
+    height: 90px;
+    width:  40%;
+    padding: 1rem;
+    
+}
+.nav-btn {
+    /*Nav buttons*/
+    transition: 0.3s;
+    color: var(--text-darkmode);
+
+}
+.nav-icon {
+    /*Nav logo (can be used in buttons too but its made to the main logo fo the site)*/
+    width: 25px;
+    height: 25px;
+    object-fit: cover;
+}
+.nav-btn-style {
+    /*Style of nav buttons (an white text with an transluced bottom border) */
+    margin-left: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-bottom: 1px solid rgba(255, 255, 255, 0);
+    transition: 0.5s;
+}
+.nav-btn-style:hover {
+    border-bottom: 1px solid white;
+}
+
