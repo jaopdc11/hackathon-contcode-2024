@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Hackacont2024")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6bb2332399e7a8c48fd768e360b4b029ef49961")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2cb4a3fbb51b656ebc121c83c33dee7e3b6354a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Hackacont2024")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Hackacont2024")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
