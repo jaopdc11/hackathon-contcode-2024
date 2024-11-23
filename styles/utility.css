@@ -1,0 +1,18 @@
+
+.btn {
+    text-align: center;
+    display: flex;
+    transition: 0.3s;
+    color: var(--text-darkmode);
+    margin: 5   px;
+}
+.glass-lightmode {
+    background: rgba(255, 255, 255, 0.21);
+    border-radius: 2rem;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+}
+.glass2 {
+    background: var(--other-darkmode);
+    border-radius: 2rem;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+}

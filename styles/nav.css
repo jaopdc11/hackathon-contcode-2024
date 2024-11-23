@@ -1,0 +1,40 @@
+#navbar {
+    position: fixed;
+    z-index: 1000;
+    margin-top: -10rem;
+}
+nav {
+    height: 1000px;
+    width: 90px;
+    padding: 1rem;
+    background: rgba(22, 22, 22, 0.555);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+
+    border: 1px solid var(--stroke-darkmode);
+
+    
+}
+.nav-btn {
+    transition: 0.3s;
+    color: var(--text-darkmode);
+
+}
+.nav-icon {
+    width: 30px;
+    height: 30px;
+    object-fit: cover;
+}
+.nav-btn-style {
+    width: 55px;
+    height: 55px;
+    border-radius: 1rem;
+    border: 1px solid rgb(37, 37, 37);
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.nav-btn-style:hover {
+    filter: brightness(3);
+}

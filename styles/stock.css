@@ -1,0 +1,16 @@
+#stock {
+    border-radius: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+    ul {
+    width: 80%;
+    margin-top: 8rem;
+    }
+
+    li {
+        background-color: var(--bg-darkmode);
+    }
+}
