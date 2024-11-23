@@ -1,0 +1,128 @@
+@media screen and (max-width: 1057px) {
+    .sumir {
+        display: none;
+    }
+    .text-mobile {
+        text-align: center;
+    }
+    nav {
+        height: 90px;
+        width:  100%;
+        padding: 1rem;
+        
+    }
+    .banner {
+        margin-top: 7rem;
+        border-radius: 1rem;
+        img {
+            
+            object-fit: contain;
+            width: 100%;
+            height: 200px;
+            padding: 10px;
+            border-radius: 1rem;
+            transition: 0.5s;
+        }
+        img:hover {
+            transform: scale(1.1) rotate(20deg);
+        }
+    }
+    #int {
+        margin: 0;
+        padding: 0;
+        h1 {
+            font-weight: bolder;
+            color: white;
+            font-size: 2rem;
+        }
+        h3, p {
+            font-size: 1rem;
+            color: #c1c8d1;
+        }
+
+        div {
+            width: 100%;
+        }
+    }
+    .btn-contain1 {
+        margin-bottom: 6rem;
+        margin-top: 2rem;
+        align-items: center;
+        display: flex;
+        justify-content: center;
+    }
+    footer {
+       div {
+        display: flex;
+        text-align: center;
+        flex-direction: column;
+       }
+       a {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+       }
+    }
+    #about {
+        text-align: center;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+    }
+    #dashboard {
+        display: flex;
+        flex-wrap: wrap;
+        width: 100%;
+    }
+
+    .t-items {
+        .cargas {
+            transition: 0.5s;
+            border: 1px solid var( --stroke-darkmode);
+            margin: 1rem;
+            border-radius: 1rem;
+            margin: 1rem;
+            width: 100%;
+            height: 300px;
+    
+        }
+        .vagas, .utilizacao  {
+            transition: 0.5s;
+            border: 1px solid var( --stroke-darkmode);
+            border-radius: 1rem;
+            margin: 1rem;
+            width: 40%;
+            height: 250px;
+            transition: 0.5s;
+        }
+        #adicionar {
+            margin: 1rem;
+            width: 100%;
+            height: 600px;
+        
+            transition: 0.5s;
+            border: 1px solid var( --stroke-darkmode);
+        
+        }
+    
+    }
+    .categorias {
+        margin: 1rem;
+        width: 100%;
+        height: 600px;
+        border-radius: 1rem;
+    
+        transition: 0.5s;
+        border: 1px solid var( --stroke-darkmode);
+    
+        .grapic-container {
+            border-radius: 1rem;
+            width: 100%;
+        }
+        .btn {
+            padding: 1rem;
+        }
+    }
+
+}
