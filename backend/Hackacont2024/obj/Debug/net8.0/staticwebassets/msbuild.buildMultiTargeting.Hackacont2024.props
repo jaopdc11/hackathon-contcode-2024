@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Hackacont2024.props" />
+</Project>
