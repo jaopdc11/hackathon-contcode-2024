@@ -1,0 +1,68 @@
+.form{
+    display: flex;
+    justify-content: center;
+
+
+
+    color: white;
+    text-align: center;
+
+    div {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        width: 500px;
+        height: 700px;
+    }
+    legend {
+        font-size: 1.5rem;
+        padding: 1rem;
+        margin-bottom: 2rem;
+    }
+    input {
+        height: 50px;
+        border-radius: 10px;
+        width: 100%;
+        border: 1px solid var(--stroke-darkmode);
+        background-color: var(--bg-darkmode);
+    }
+    fieldset {
+        margin: 1rem;
+        width: 80%;
+    }
+    button {
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+        border-radius: 1rem;
+        width: 80%;
+        height: 60px;
+        background-color: rgb(29, 30, 37);
+        transition: 0.5s;
+    }
+    button:hover {
+        background-color: rgb(24, 24, 29);
+    }
+}
+#login {
+    padding-top: 10rem;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+#register {
+    padding-top: 10rem;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+#forms2 {
+    margin-top: 15rem;
+    border-radius: 1rem;
+
+    transition: 0.5s;
+
+    .btn {
+        padding: 1rem;
+    }
+}

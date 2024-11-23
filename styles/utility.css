@@ -1,0 +1,73 @@
+.btn {
+  text-align: center;
+  display: flex;
+  transition: 0.3s;
+  color: var(--text-darkmode);
+  margin: 5 px;
+}
+.glass {
+  background: #1010136c;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(11.1px);
+  -webkit-backdrop-filter: blur(11.1px);
+  border: 1px solid var(--stroke-darkmode);
+}
+.btn-style1 {
+  border: 1px solid rgba(44, 42, 51, 0.301);
+  border-radius: 1rem;
+  margin: 3px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  margin: 1rem;
+}
+.btn-style1:hover {
+  border: 1px solid rgba(172, 172, 172, 0.63);
+}
+.btn-style4 {
+  border: 1px solid rgba(253, 252, 253, 0.301);
+  border-radius: 1rem;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  margin: .5rem;
+}
+.btn-style4:hover {
+  border: 1px solid white;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+.btn-style3 {
+  border: 1px solid rgba(253, 252, 253, 0.247);
+  border-radius: 1rem;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  margin: .5rem;
+}
+.btn-style3:hover {
+  border: 1px solid white;
+  background-color: white;
+  color: black;
+}
+.btn-style2 {
+  color: black;
+  border: 1px solid rgb(253, 252, 253);
+  background-color: white;
+  border-radius: 1rem;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  margin: .5rem;
+}
+.btn-style2:hover {
+  padding-left: 2rem;
+  padding-right: 2rem;
+
+}
+.btn-dash {
+  padding: 1rem;
+}
