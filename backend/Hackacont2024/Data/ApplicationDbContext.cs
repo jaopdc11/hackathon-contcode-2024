@@ -4,7 +4,7 @@ using Hackacont2024.Models;
 namespace Hackacont2024.Data {
     public class ApplicationDbContext : DbContext
     {
-        // Represents the collection of 'User' entities in the database.
+        // Represents the collection of 'User' and 'Cargas' entities in the database.
         public DbSet<User> Usuarios { get; set; }
         public DbSet<Cargo> Cargas { get; set; }
 
