@@ -59,9 +59,9 @@ Nosso grupo está comprometido em levar a **Paradox** adiante, aprimorando suas 
 ---
 
 ## Equipe  
-- **Andreas** - Scrum Master  
-- **João e Gabriel Batalha** - Backend  
-- **Rody** - Frontend
+- **Andreas (ind1go_.)** - Scrum Master  
+- **João (jao1101)** - Backend  
+- **Rody (ctrlrodyy)** - Frontend
 
 ---
 
