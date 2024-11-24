@@ -61,4 +61,9 @@ Nosso grupo está comprometido em levar a **Paradox** adiante, aprimorando suas 
 ## Equipe  
 - **Andreas** - Scrum Master  
 - **João e Gabriel Batalha** - Backend  
-- **Rody** - Frontend  
+- **Rody** - Frontend
+
+---
+
+## Arquivo Sobre a Timeline da Produção do Projeto
+[Timeline da Produção](https://github.com/user-attachments/files/17891853/Timeline.da.Producao.pdf)
