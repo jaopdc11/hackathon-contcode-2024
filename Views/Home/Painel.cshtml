@@ -1,0 +1,41 @@
+﻿@{
+    ViewData["Painel"] = "Painel";
+}
+<head>
+    <link rel="stylesheet" href="global.css">
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@400..800&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">>
+</head>
+
+<section id="acess" class="flex flex-wrap justify-center aligh-center">
+    <div>
+            <h1>Painel de Acesso</h1>
+    </div>
+    <div class="btn-contain2 flex flex-wrap justify-center aligh-center">
+        <a class="btn btn-style2" asp-action="Support">Suporte</a>
+        <a class="btn btn-style4" asp-action="Entrada">Entrada</a>
+        <a class="btn btn-style4" asp-action="Veiculos">Historico</a>
+        <a class="btn btn-style4" asp-action="Dashboard">Dashboard</a>
+    </div>
+    </div>
+</section>
+<footer class="flex flex-wrap aligh-center justify-center">
+    <div class="footer-text">
+        <h2>Todos os direitos reservados Paradox - 2024</h2>
+        <br>
+        <p>Frontend e identidade visual desenvolvidos por ctrldoy e andreas</p>
+        <p>Backend e cybersec desenvolvidos por jao e mednick</p>
+        <br>
+        <div class="flex flex-wrap aligh-center justify-center">
+            <a class="btn btn-style3" href="">Criadores</a>
+            <a class="btn btn-style3" href="">Suporte</a>
+        </div>
+    </div>
+</footer>
+<script src="scripts/index.js"></script>

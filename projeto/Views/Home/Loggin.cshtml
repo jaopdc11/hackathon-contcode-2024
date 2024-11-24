@@ -1,0 +1,24 @@
+﻿@{
+    ViewData["Loggin"] = "Loggin";
+}
+
+<section id="login">
+    <form action="" class="form" class="">
+        <div class="glass2">
+            <legend>Login</legend>
+            <fieldset>
+                <label for="authentication">Codigo</label>
+                <input type="number" name="authentication" placeholder="Codigo" id="authentication">
+            </fieldset>
+            <fieldset>
+                <label for="password">Senha</label>
+                <input type="password" name="password" placeholder="Senha" id="password">
+            </fieldset>
+            <div>
+                <button type="submit">Login</button>
+                <a asp-action="LostPassword">Esqueceu a senha?</a>
+                <a asp-action="Register">ou Registre-se</a>
+            </div>
+        </div>
+    </form>
+</section>

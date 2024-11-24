@@ -1,0 +1,1397 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\Hackacont2024.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Hackacont2024.y4jiog2w9r.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\assets\\banners\\Captura de tela 2024-11-23 022357.png",
+      "PackagePath": "staticwebassets\\assets\\banners\\Captura de tela 2024-11-23 022357.png"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\assets\\icons\\icons8-box-50.png",
+      "PackagePath": "staticwebassets\\assets\\icons\\icons8-box-50.png"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\assets\\icons\\icons8-history-50.png",
+      "PackagePath": "staticwebassets\\assets\\icons\\icons8-history-50.png"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\assets\\icons\\icons8-light-50.png",
+      "PackagePath": "staticwebassets\\assets\\icons\\icons8-light-50.png"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\assets\\icons\\icons8-login-50.png",
+      "PackagePath": "staticwebassets\\assets\\icons\\icons8-login-50.png"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\assets\\icons\\icons8-moon-50.png",
+      "PackagePath": "staticwebassets\\assets\\icons\\icons8-moon-50.png"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\assets\\icons\\icons8-register-50.png",
+      "PackagePath": "staticwebassets\\assets\\icons\\icons8-register-50.png"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\assets\\icons\\icons8-settings-50.png",
+      "PackagePath": "staticwebassets\\assets\\icons\\icons8-settings-50.png"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\assets\\icons\\lark.png",
+      "PackagePath": "staticwebassets\\assets\\icons\\lark.png"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\css\\animations.css",
+      "PackagePath": "staticwebassets\\css\\animations.css"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\css\\dashboard.css",
+      "PackagePath": "staticwebassets\\css\\dashboard.css"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\css\\forms.css",
+      "PackagePath": "staticwebassets\\css\\forms.css"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\css\\global.css",
+      "PackagePath": "staticwebassets\\css\\global.css"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\css\\index.css",
+      "PackagePath": "staticwebassets\\css\\index.css"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\css\\mobile.css",
+      "PackagePath": "staticwebassets\\css\\mobile.css"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\css\\nav.css",
+      "PackagePath": "staticwebassets\\css\\nav.css"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\css\\utility.css",
+      "PackagePath": "staticwebassets\\css\\utility.css"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\js\\index.js",
+      "PackagePath": "staticwebassets\\js\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwind\\tailwind.css",
+      "PackagePath": "staticwebassets\\lib\\tailwind\\tailwind.css"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\base.css",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\base.css"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\colors.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\colors.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\components.css",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\components.css"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\defaultconfig.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\defaultconfig.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\defaulttheme.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\defaulttheme.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\dist\\base.css",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\dist\\base.css"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\dist\\base.min.css",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\dist\\base.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\dist\\components.css",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\dist\\components.css"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\dist\\components.min.css",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\dist\\components.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\dist\\tailwind-dark.css",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\dist\\tailwind-dark.css"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\dist\\tailwind-dark.min.css",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\dist\\tailwind-dark.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\dist\\tailwind-experimental.css",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\dist\\tailwind-experimental.css"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\dist\\tailwind-experimental.min.css",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\dist\\tailwind-experimental.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\dist\\tailwind.css",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\dist\\tailwind.css"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\dist\\tailwind.min.css",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\dist\\tailwind.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\dist\\utilities.css",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\dist\\utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\dist\\utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\dist\\utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\cli-peer-dependencies.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\cli-peer-dependencies.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\cli.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\cli.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\constants.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\constants.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\corepluginlist.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\corepluginlist.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\coreplugins.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\coreplugins.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\featureflags.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\featureflags.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\index.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\index.postcss7.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\index.postcss7.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\jit\\coreplugins.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\jit\\coreplugins.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\jit\\index.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\jit\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\jit\\lib\\collapseadjacentrules.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\jit\\lib\\collapseadjacentrules.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\jit\\lib\\expandapplyatrules.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\jit\\lib\\expandapplyatrules.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\jit\\lib\\expandtailwindatrules.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\jit\\lib\\expandtailwindatrules.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\jit\\lib\\generaterules.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\jit\\lib\\generaterules.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\jit\\lib\\normalizetailwinddirectives.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\jit\\lib\\normalizetailwinddirectives.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\jit\\lib\\resolvedefaultsatrules.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\jit\\lib\\resolvedefaultsatrules.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\jit\\lib\\setupcontextutils.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\jit\\lib\\setupcontextutils.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\jit\\lib\\setuptrackingcontext.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\jit\\lib\\setuptrackingcontext.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\jit\\lib\\setupwatchingcontext.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\jit\\lib\\setupwatchingcontext.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\jit\\lib\\sharedstate.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\jit\\lib\\sharedstate.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\jit\\processtailwindfeatures.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\jit\\processtailwindfeatures.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\lib\\applyimportantconfiguration.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\lib\\applyimportantconfiguration.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\lib\\convertlayeratrulestocontrolcomments.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\lib\\convertlayeratrulestocontrolcomments.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\lib\\evaluatetailwindfunctions.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\lib\\evaluatetailwindfunctions.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\lib\\formatcss.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\lib\\formatcss.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\lib\\getmoduledependencies.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\lib\\getmoduledependencies.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\lib\\purgeunusedstyles.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\lib\\purgeunusedstyles.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\lib\\registerconfigasdependency.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\lib\\registerconfigasdependency.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\lib\\substituteclassapplyatrules.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\lib\\substituteclassapplyatrules.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\lib\\substituteresponsiveatrules.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\lib\\substituteresponsiveatrules.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\lib\\substitutescreenatrules.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\lib\\substitutescreenatrules.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\lib\\substitutetailwindatrules.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\lib\\substitutetailwindatrules.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\lib\\substitutevariantsatrules.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\lib\\substitutevariantsatrules.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\accessibility.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\accessibility.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\aligncontent.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\aligncontent.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\alignitems.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\alignitems.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\alignself.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\alignself.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\animation.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\animation.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\appearance.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\appearance.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\backdropblur.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\backdropblur.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\backdropbrightness.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\backdropbrightness.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\backdropcontrast.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\backdropcontrast.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\backdropfilter.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\backdropfilter.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\backdropgrayscale.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\backdropgrayscale.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\backdrophuerotate.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\backdrophuerotate.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\backdropinvert.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\backdropinvert.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\backdropopacity.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\backdropopacity.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\backdropsaturate.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\backdropsaturate.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\backdropsepia.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\backdropsepia.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\backgroundattachment.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\backgroundattachment.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\backgroundblendmode.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\backgroundblendmode.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\backgroundclip.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\backgroundclip.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\backgroundcolor.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\backgroundcolor.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\backgroundimage.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\backgroundimage.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\backgroundopacity.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\backgroundopacity.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\backgroundorigin.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\backgroundorigin.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\backgroundposition.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\backgroundposition.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\backgroundrepeat.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\backgroundrepeat.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\backgroundsize.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\backgroundsize.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\blur.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\blur.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\bordercollapse.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\bordercollapse.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\bordercolor.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\bordercolor.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\borderopacity.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\borderopacity.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\borderradius.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\borderradius.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\borderstyle.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\borderstyle.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\borderwidth.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\borderwidth.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\boxdecorationbreak.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\boxdecorationbreak.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\boxshadow.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\boxshadow.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\boxsizing.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\boxsizing.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\brightness.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\brightness.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\caretcolor.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\caretcolor.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\clear.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\clear.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\container.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\container.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\content.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\content.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\contrast.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\contrast.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\css\\license",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\css"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\css\\preflight.css",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\css\\preflight.css"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\cursor.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\cursor.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\display.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\display.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\dividecolor.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\dividecolor.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\divideopacity.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\divideopacity.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\dividestyle.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\dividestyle.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\dividewidth.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\dividewidth.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\dropshadow.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\dropshadow.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\fill.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\fill.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\filter.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\filter.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\flex.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\flex.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\flexdirection.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\flexdirection.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\flexgrow.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\flexgrow.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\flexshrink.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\flexshrink.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\flexwrap.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\flexwrap.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\float.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\float.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\fontfamily.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\fontfamily.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\fontsize.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\fontsize.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\fontsmoothing.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\fontsmoothing.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\fontstyle.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\fontstyle.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\fontvariantnumeric.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\fontvariantnumeric.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\fontweight.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\fontweight.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\gap.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\gap.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\gradientcolorstops.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\gradientcolorstops.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\grayscale.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\grayscale.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\gridautocolumns.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\gridautocolumns.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\gridautoflow.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\gridautoflow.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\gridautorows.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\gridautorows.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\gridcolumn.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\gridcolumn.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\gridcolumnend.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\gridcolumnend.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\gridcolumnstart.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\gridcolumnstart.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\gridrow.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\gridrow.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\gridrowend.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\gridrowend.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\gridrowstart.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\gridrowstart.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\gridtemplatecolumns.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\gridtemplatecolumns.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\gridtemplaterows.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\gridtemplaterows.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\height.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\height.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\huerotate.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\huerotate.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\index.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\inset.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\inset.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\invert.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\invert.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\isolation.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\isolation.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\justifycontent.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\justifycontent.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\justifyitems.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\justifyitems.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\justifyself.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\justifyself.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\letterspacing.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\letterspacing.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\lineheight.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\lineheight.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\liststyleposition.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\liststyleposition.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\liststyletype.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\liststyletype.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\margin.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\margin.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\maxheight.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\maxheight.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\maxwidth.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\maxwidth.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\minheight.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\minheight.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\minwidth.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\minwidth.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\mixblendmode.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\mixblendmode.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\objectfit.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\objectfit.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\objectposition.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\objectposition.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\opacity.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\opacity.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\order.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\order.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\outline.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\outline.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\overflow.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\overflow.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\overscrollbehavior.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\overscrollbehavior.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\padding.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\padding.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\placecontent.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\placecontent.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\placeholdercolor.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\placeholdercolor.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\placeholderopacity.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\placeholderopacity.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\placeitems.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\placeitems.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\placeself.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\placeself.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\pointerevents.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\pointerevents.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\position.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\position.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\preflight.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\preflight.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\resize.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\resize.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\ringcolor.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\ringcolor.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\ringoffsetcolor.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\ringoffsetcolor.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\ringoffsetwidth.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\ringoffsetwidth.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\ringopacity.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\ringopacity.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\ringwidth.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\ringwidth.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\rotate.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\rotate.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\saturate.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\saturate.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\scale.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\scale.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\sepia.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\sepia.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\skew.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\skew.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\space.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\space.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\stroke.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\stroke.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\strokewidth.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\strokewidth.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\tablelayout.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\tablelayout.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\textalign.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\textalign.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\textcolor.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\textcolor.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\textdecoration.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\textdecoration.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\textopacity.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\textopacity.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\textoverflow.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\textoverflow.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\texttransform.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\texttransform.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\transform.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\transform.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\transformorigin.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\transformorigin.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\transitiondelay.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\transitiondelay.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\transitionduration.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\transitionduration.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\transitionproperty.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\transitionproperty.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\transitiontimingfunction.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\transitiontimingfunction.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\translate.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\translate.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\userselect.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\userselect.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\verticalalign.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\verticalalign.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\visibility.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\visibility.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\whitespace.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\whitespace.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\width.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\width.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\wordbreak.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\wordbreak.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\plugins\\zindex.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\plugins\\zindex.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\processtailwindfeatures.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\processtailwindfeatures.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\util\\bigsign.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\util\\bigsign.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\util\\buildmediaquery.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\util\\buildmediaquery.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\util\\buildselectorvariant.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\util\\buildselectorvariant.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\util\\clonenodes.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\util\\clonenodes.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\util\\configureplugins.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\util\\configureplugins.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\util\\createplugin.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\util\\createplugin.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\util\\createutilityplugin.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\util\\createutilityplugin.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\util\\disposables.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\util\\disposables.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\util\\escapeclassname.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\util\\escapeclassname.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\util\\escapecommas.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\util\\escapecommas.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\util\\flattencolorpalette.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\util\\flattencolorpalette.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\util\\generatevariantfunction.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\util\\generatevariantfunction.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\util\\getallconfigs.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\util\\getallconfigs.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\util\\hashconfig.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\util\\hashconfig.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\util\\increasespecificity.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\util\\increasespecificity.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\util\\iskeyframerule.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\util\\iskeyframerule.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\util\\isplainobject.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\util\\isplainobject.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\util\\log.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\util\\log.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\util\\nameclass.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\util\\nameclass.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\util\\negatevalue.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\util\\negatevalue.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\util\\parseanimationvalue.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\util\\parseanimationvalue.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\util\\parsedependency.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\util\\parsedependency.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\util\\parseobjectstyles.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\util\\parseobjectstyles.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\util\\pluginutils.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\util\\pluginutils.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\util\\prefixnegativemodifiers.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\util\\prefixnegativemodifiers.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\util\\prefixselector.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\util\\prefixselector.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\util\\processplugins.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\util\\processplugins.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\util\\resolveconfig.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\util\\resolveconfig.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\util\\resolveconfigpath.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\util\\resolveconfigpath.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\util\\responsive.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\util\\responsive.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\util\\tocolorvalue.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\util\\tocolorvalue.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\util\\transformthemevalue.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\util\\transformthemevalue.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\util\\usememo.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\util\\usememo.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\util\\usescustomproperties.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\util\\usescustomproperties.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\util\\withalphavariable.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\util\\withalphavariable.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\lib\\util\\wrapwithvariants.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\lib\\util\\wrapwithvariants.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\license",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\nesting\\index.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\nesting\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\nesting\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\nesting\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\nesting\\readme.md",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\nesting\\readme.md"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\package.json",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\peers\\index.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\peers\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\peers\\orders\\concentric-css.json",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\peers\\orders\\concentric-css.json"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\peers\\orders\\smacss.json",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\peers\\orders\\smacss.json"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\peers\\orders\\source.json",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\peers\\orders\\source.json"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\prettier.config.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\prettier.config.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\readme.md",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\readme.md"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\resolveconfig.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\resolveconfig.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\screens.css",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\screens.css"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\scripts\\build-plugins.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\scripts\\build-plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\scripts\\build.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\scripts\\build.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\scripts\\compat.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\scripts\\compat.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\scripts\\create-plugin-list.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\scripts\\create-plugin-list.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\scripts\\install-integrations.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\scripts\\install-integrations.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\scripts\\rebuildfixtures.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\scripts\\rebuildfixtures.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\stubs\\defaultconfig.stub.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\stubs\\defaultconfig.stub.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\stubs\\defaultpostcssconfig.stub.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\stubs\\defaultpostcssconfig.stub.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\stubs\\simpleconfig.stub.js",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\stubs\\simpleconfig.stub.js"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\tailwind.css",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\tailwind.css"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\utilities.css",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\mednick\\Desktop\\projeto\\wwwroot\\lib\\tailwindcss\\variants.css",
+      "PackagePath": "staticwebassets\\lib\\tailwindcss\\variants.css"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.Hackacont2024.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.Hackacont2024.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.Hackacont2024.props",
+      "PackagePath": "build\\Hackacont2024.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Hackacont2024.props",
+      "PackagePath": "buildMultiTargeting\\Hackacont2024.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.Hackacont2024.props",
+      "PackagePath": "buildTransitive\\Hackacont2024.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

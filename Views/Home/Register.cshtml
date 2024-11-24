@@ -1,0 +1,28 @@
+﻿@{
+    ViewData["Support"] = "Support";
+}
+<section id="register">
+    <form action="" class="form" class="">
+
+        <div class="glass2">
+            <legend>Registre-se</legend>
+            <fieldset>
+                <label for="name">Nome</label>
+                <input type="text" name="name" placeholder="Nome" id="name">
+            </fieldset>
+            <fieldset>
+                <label for="name2">Sobrenome</label>
+                <input type="text" name="name2" placeholder="Sobrenome" id="name2">
+            </fieldset>
+            <fieldset>
+                <label for="password">Senha</label>
+                <input type="password" name="password" placeholder="Senha" id="password">
+            </fieldset>
+            <div>
+                <button type="submit">Registrar-se</button>
+                <a asp-action="LostPassword">Esqueceu a senha?</a>
+                <a asp-action="Loggin">Login</a>
+            </div>
+        </div>
+    </form>
+</section>

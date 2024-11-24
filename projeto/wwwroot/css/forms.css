@@ -1,0 +1,106 @@
+.form{
+    /*styles for all the camps in .form class (i have used the style in a class to make possible to stylize other forms in diferent ways)*/
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    a {
+        color: white;
+    }
+    div {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        width: 500px;
+        height: 700px;
+    }
+    legend {
+        font-size: 1.5rem;
+        padding: 1rem;
+        margin-bottom: 2rem;
+    }
+    input {
+        color: white;
+        height: 50px;
+        border-radius: 10px;
+        width: 100%;
+        border: 1px solid var(--stroke-darkmode);
+        background-color: var(--bg-darkmode);
+    }
+    
+    fieldset {
+
+        border: none;
+        margin: 1rem;
+        width: 100%;
+    }
+    button {
+        color: white;
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+        border-radius: 1rem;
+        width: 100%;
+        height: 60px;
+        background-color: rgb(29, 30, 37);
+        border: 1px solid rgba(255, 255, 255, 0);
+        transition: 0.2s;
+    }
+    button:hover {
+        border: 1px solid rgba(255, 255, 255, 0.301);
+        background-color: rgb(24, 24, 29);
+    }
+    select {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        text-align: center;
+        text-align-last: center;
+
+        border-radius: 1rem;
+        width: 100%;
+        padding: 20px;
+        background-color: rgb(29, 30, 37);
+        border: 1px solid rgba(255, 255, 255, 0);
+        transition: 0.2s; 
+
+        color: white;
+    }
+}
+#entrada {
+    overflow: hidden;
+    padding-top: 10rem;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+#login {
+    
+    padding-top: 10rem;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+#register {
+    padding-top: 10rem;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+#forms2 {
+    border-radius: 1rem;
+    padding-top: 15rem;
+    transition: 0.5s;
+    margin-bottom: 6rem;
+
+    .btn {
+        padding: 1rem;
+    }
+}
+#entrada {
+    padding-top: 15rem;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}

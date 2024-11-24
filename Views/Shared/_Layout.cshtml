@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <!-- Meta Tags -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+    <!-- CSS Global -->
+    <link rel="stylesheet" href="~/css/dashboard.css">
+    <link rel="stylesheet" href="~/css/forms.css">
+    <link rel="stylesheet" href="~/css/global.css">
+    <link rel="stylesheet" href="~/css/animations.css">
+    <link rel="stylesheet" href="~/css/mobile.css">
+    <link rel="stylesheet" href="~/css/nav.css">
+    <link rel="stylesheet" href="~/css/utility.css">
+    <link rel="stylesheet" href="~/css/index.css">
+
+    <!-- Fontes -->
+    <script src="~/js/index.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@400..800&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Navbar -->
+    <section id="navbar" class="glass">
+        <nav class="flex flex-wrap justify-between items-center">
+            <a class="nav-btn nav-btn-style" asp-action="Index"><img class="nav-icon" src="~/assets/icons/lark.png" alt="Home"></a>
+            <a class="nav-btn nav-btn-style" asp-action="Painel">Painel</a>
+        </nav>
+    </section>
+
+    <!-- Conteúdo dinâmico -->
+    <main>
+        @RenderBody() <!-- Este método renderiza o conteúdo específico de cada view -->
+    </main>
+
+    <!-- Rodapé (opcional) -->
+    <footer>
+        <!-- Você pode adicionar aqui o conteúdo padrão do rodapé -->
+    </footer>
+</body>
+</html>

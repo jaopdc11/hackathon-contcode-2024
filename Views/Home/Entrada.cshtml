@@ -1,0 +1,53 @@
+﻿@{
+    ViewData["Entrada"] = "Entrada";
+}
+<div>
+    <section id="entrada">
+        <form action="" class="form">
+
+            <div class="glass2" class="flex flex-wrap justify-center items-center">
+                <legend>Entrada</legend>
+                <fieldset>
+                    <label for="authentication">Placa do carro</label>
+                    <input type="text" name="authentication" placeholder="Informe a placa do carro" id="authentication">
+                </fieldset>
+                <fieldset>
+                    <label for="Carga">Tipo de operação</label>
+
+                    <select name="Carga" id="Carga" >
+                        <option value="Alimentos">Entrada</option>
+                        <option value="Medicaçoes">Saida</option>
+                    </select>
+                </fieldset>
+                <fieldset>
+                    <label for="Carga">Carga</label>
+
+                    <select name="Carga" id="Carga">
+                        <option value="Alimentos">Alimentos</option>
+                        <option value="Medicaçoes">Medicaçoes</option>
+                        <option value="Mercadorias">Mercadorias</option>
+                        <option value="Outra">Outra</option>
+                        <option value="n/a">Sem carga</option>
+                    </select>
+                </fieldset>
+                <div>
+                    <button type="submit">Iniciar operação</button>
+                </div>
+            </div>
+        </form>
+    </section>
+</div>
+
+<footer class="flex flex-wrap aligh-center justify-center">
+    <div class="footer-text">
+        <h2>Todos os direitos reservados Paradox - 2024</h2>
+        <br>
+        <p>Frontend e identidade visual desenvolvidos por ctrldoy e andreas</p>
+        <p>Backend e cybersec desenvolvidos por jao e mednick</p>
+        <br>
+        <div class="flex flex-wrap aligh-center justify-center">
+            <a class="btn btn-style3" asp-action="Support">Criadores</a>
+            <a class="btn btn-style3" asp-action="Support">Suporte</a>
+        </div>
+    </div>
+</footer>
