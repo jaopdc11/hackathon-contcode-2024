@@ -33,6 +33,25 @@ Automatização e integração que eliminam processos redundantes e melhoram a a
 
 ---
 
+## Tecnologias Utilizadas  
+Para garantir o desenvolvimento de uma solução robusta, eficiente e moderna, utilizamos as seguintes tecnologias:  
+
+- **C#**  
+  Linguagem de programação principal utilizada para a implementação do backend, com foco em alta performance, segurança e flexibilidade.  
+
+- **Tailwind CSS**  
+  Framework de design utilitário para estilização do frontend, garantindo uma interface moderna, responsiva e consistente com menos esforço.  
+
+- **JavaScript/jQuery**  
+  Ferramentas essenciais para adicionar interatividade e dinamismo ao site, otimizando a experiência do usuário com scripts rápidos e funcionais.  
+
+- **PostgreSQL**  
+  Banco de dados relacional robusto, utilizado para armazenar e gerenciar os dados do sistema com eficiência e confiabilidade.  
+
+Essas tecnologias foram escolhidas por sua sinergia e adequação às necessidades do projeto, permitindo criar uma plataforma integrada, escalável e de fácil manutenção.  
+
+---
+
 ## Por que Criamos a Paradox?  
 Nosso grupo decidiu desenvolver a **Paradox** porque reconhecemos a importância do transporte de contêineres para a economia global e percebemos que o setor ainda carece de soluções modernas e eficientes.  
 
